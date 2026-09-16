@@ -51,13 +51,13 @@ Sales-Performance-Business-Intelligence-Analysis/
 │
 ├── README.md
 │
-├── SQL/
-│   └── sales_analysis.sql
-│
 ├── PowerBI/
-│   └── sales_dashboard.pbix
+│   └── highcloud_powerbi.pbix
 │
 ├── Tableau/
+│   └── highcloud_powerbi.twbx
+│
+├── SQL/
 │   └── sales_dashboard.twbx
 │
 └── Dashboard_Screenshots/
