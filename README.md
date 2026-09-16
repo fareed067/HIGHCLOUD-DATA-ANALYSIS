@@ -183,8 +183,8 @@ It demonstrates practical experience in data analytics, business intelligence, a
 
 ## 👤 Author
 
-**Sohail Thanveer Shaik**
+**Fareed Shaik**
 
 CSE (Data Science) Graduate
 
-[LinkedIn](https://www.linkedin.com/in/sohailthanveersk/) • [GitHub](https://github.com/sohailthanveersk)
+[LinkedIn](https://linkedin.com/in/fareed-shaik-2b1506356) • [GitHub](https://github.com/fareed067)
