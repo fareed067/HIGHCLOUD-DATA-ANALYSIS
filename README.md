@@ -1,8 +1,8 @@
 
-# Sales Performance & Business Intelligence Analysis
+# HIGHCLOUD DATA ANALYSIS
 
 <p align="center">
-  <strong>SQL | Power BI | Tableau | Data Analytics</strong>
+  <strong>SQL | Power BI | Tableau | Excel</strong>
 </p>
 
 <p align="center">
